@@ -1,0 +1,17 @@
+{
+  "categories": [
+    {"id": 1, "name": "firewall"},
+    {"id": 2, "name": "ids"},
+    {"id": 3, "name": "antivirus"}
+  ],
+  "records": [
+    {"code": "V05-01", "title": "Підсумок спрацювань 01", "category_id": 1, "value": 10, "status": "new"},
+    {"code": "V05-02", "title": "Підсумок спрацювань 02", "category_id": 2, "value": 35, "status": "in_progress"},
+    {"code": "V05-03", "title": "Підсумок спрацювань 03", "category_id": 3, "value": 7, "status": "done"},
+    {"code": "V05-04", "title": "Підсумок спрацювань 04", "category_id": 1, "value": 22, "status": "new"},
+    {"code": "V05-05", "title": "Підсумок спрацювань 05", "category_id": 2, "value": 15, "status": "done"},
+    {"code": "V05-06", "title": "Підсумок спрацювань 06", "category_id": 3, "value": 4, "status": "in_progress"},
+    {"code": "V05-07", "title": "Підсумок спрацювань 07", "category_id": 1, "value": 28, "status": "done"},
+    {"code": "V05-08", "title": "Підсумок спрацювань 08", "category_id": 2, "value": 9, "status": "new"}
+  ]
+}
